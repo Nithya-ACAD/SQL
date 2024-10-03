@@ -2,8 +2,6 @@
 ## Course Overview
 This is the introductory course to Databases and SQL, where you will learn about relational databases, database design, SQL, and REST API integration. By the end of this course, you will have created a fully functional database for the ecommerce web application of your choice!
 
-### Editing Readme :P :P
-
 ### Modules
 1. **Introduction and Designing Relational Databases**
 Learn the fundamental concepts of relational databases and how to design a database following the best practices used in industry.
